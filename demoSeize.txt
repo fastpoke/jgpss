@@ -1,0 +1,14 @@
+*
+* Demos Seize
+* Demo
+*
+
+
+*
+* main
+*
+        Generate        1.0,0.0,0.0,0.0,0.0,0     ;<<--comment-->>
+        Seize           as     ;<<--comment-->>
+        Advance         1.0,0.0     ;<<--comment-->>
+        Release         as     ;<<--comment-->>
+        Terminate       1     ;<<--comment-->>
